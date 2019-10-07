@@ -1,6 +1,6 @@
 ---
-- Apple
-- Orange
-- Strawberry
-- Mango
+- aaaa: Apple
+- bbbb: Orange
+- cccc: Strawberry
+- dddd: Mango
  ---
