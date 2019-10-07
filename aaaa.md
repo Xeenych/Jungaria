@@ -1,9 +1,12 @@
 ---
-- abcd:
-Название: Перевал 1
-Категория: 1А
-Выота: 4444
-- efgh:
-Название: Перевал 2
-Категория: 1Б
----
+bindings:
+  - ircEvent: PRIVMSG
+    method: newUri
+    regexp: '^http://.*'
+  - ircEvent: PRIVMSG
+    method: deleteUri
+    regexp: '^delete.*'
+  - ircEvent: PRIVMSG
+    method: randomUri
+    regexp: '^random.*'
+ ---
