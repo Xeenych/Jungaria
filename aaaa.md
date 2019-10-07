@@ -1,12 +1,6 @@
 ---
-bindings:
-  - ircEvent: PRIVMSG
-    method: newUri
-    regexp: '^http://.*'
-  - ircEvent: PRIVMSG
-    method: deleteUri
-    regexp: '^delete.*'
-  - ircEvent: PRIVMSG
-    method: randomUri
-    regexp: '^random.*'
+- Apple
+- Orange
+- Strawberry
+- Mango
  ---
