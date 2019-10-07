@@ -1,3 +1,4 @@
 ---
-title: Blogging Like a Boss
+Название: Blogging Like a Boss
+Категория: 1А
 ---
